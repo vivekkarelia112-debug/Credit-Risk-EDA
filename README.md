@@ -66,8 +66,6 @@ The original dataset contains **32,581 rows and 12 columns**.
 **Creator:** Lao Tse  
 **Licence:** CC0 1.0 Universal (Public Domain), as listed on Kaggle when checked.
 
-> **Note:** Include the dataset's original source and applicable usage or redistribution terms here before publishing the project publicly.
-
 ## 🧹 Data Cleaning and Preparation
 
 The notebook performs the following preparation steps:
