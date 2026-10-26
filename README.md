@@ -25,8 +25,6 @@ The goal is to identify meaningful patterns in the dataset and communicate findi
 ├── data/
 │   └── credit_risk_dataset.csv
 │
-├── images/
-│
 ├── notebook/
 │   └── credit_risk_eda.ipynb
 │
